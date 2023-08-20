@@ -1,0 +1,4 @@
+language: python
+
+script:
+  - test_compute_stats_refactor.py
